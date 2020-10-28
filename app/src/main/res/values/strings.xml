@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SumpahPemudaApp</string>
+    <string name="sumpah_pemuda_text">Sumpah Pemuda</string>
+    <string name="sumpah_pertama_text">1. Kami Putra dan Putri Indonesia, mengaku bertumpah darah yang satu, tanah air Indonesia.</string>
+    <string name="sumpah_kedua_text">2. Kami Putra dan Putri Indonesia, mengaku berbangsa satu, bangsa Indonesia</string>
+    <string name="sumpah_ketiga_text">3. Kami Putra dan Putri Indonesia, menjunjung bahasa persatuan, Bahasa Indonesia</string>
+    <string name="user_github_text">nurzainpradana</string>
+    <string name="user_linkedin_text">Nur Zain Pradana</string>
+</resources>
